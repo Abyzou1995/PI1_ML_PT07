@@ -62,7 +62,7 @@ Dataset for functions:
 
 
 This process can be seen there:
-[Functions API MLops Movie Recommendation System ](https://github.com/Abyzou1995/PI1_ML_PT07/blob/main/Funciones.ipynb)
+[Functions API MLops Game Recommendation System ](https://github.com/Abyzou1995/PI1_ML_PT07/blob/main/Funciones.ipynb)
 
 ## Function ML Game Recommendation System for the API Development
 
@@ -78,7 +78,7 @@ Based on research articules, features and ML text-analysis model were chosen.
 
 
 This process can be seen there:
-[Model MLops Movie Recommendation System ](https://github.com/Abyzou1995/PI1_ML_PT07/blob/main/ML.ipynb)
+[Model MLops Game Recommendation System ](https://github.com/Abyzou1995/PI1_ML_PT07/blob/main/ML.ipynb)
 
 ## Deployment
 
@@ -86,14 +86,14 @@ This process can be seen there:
 - Render is an unified cloud to build and run all your apps and websites.
 
 Deployed API code can be seen there:
-[Code API Movie Recommendation System ](https://github.com/Abyzou1995/PI1_ML_PT07/blob/main/main.py)
+[Code API Game Recommendation System ](https://github.com/Abyzou1995/PI1_ML_PT07/blob/main/main.py)
 
 <p align=center><img src="src/Render.png"><p>
 
 Deployed API can be seen there:
-[Render API Movie Recommendation System ](https://pi1-ml-pt07.onrender.com/docs)
+[Render API Game Recommendation System ](https://pi1-ml-pt07.onrender.com/docs)
 
 ## Video Tutorial
 
 This video can be seen there:
-[MLops Movie Recommendation System ](https://www.youtube.com/watch?v=I5aDsbqEHwg)
+[MLops Game Recommendation System ](https://www.youtube.com/watch?v=PI3IZoQVrig)
