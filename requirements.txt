@@ -94,3 +94,5 @@ websockets==11.0.3
 Werkzeug==2.3.4
 widgetsnbextension==4.0.7
 ydata-profiling==4.1.2
+pyarrow
+fastparquet
