@@ -21,16 +21,16 @@ You go to their data and you realize that their maturity is low. Nested data, wi
 Extract, Transform and load process was carried out following these steps.
 
 Original Dataset:
-[Original Dataset ](https://github.com/Abyzou1995/PI01_DATA10_MLops_HENRY/tree/main/Dataset_original)
+[Original Dataset ](https://github.com/Abyzou1995/PI1_ML_PT07/tree/main/Dataset/Original_Dataset)
 
 ### Feature Engineering
 
 The user_reviews dataset includes reviews of games made by different users. You must create the 'sentiment_analysis' column by applying sentiment analysis with NLP with the following scale: it must take the value '0' if it is bad, '1' if it is neutral and '2' if it is positive. This new column should replace user_reviews.review to make the work of machine learning models and data analysis easier. If this analysis is not possible due to the absence of the written review, it should take the value of 1.
 
 This process can be seen there:
-[ETL MLops Movie Recommendation System ](https://github.com/Abyzou1995/PI01_DATA10_MLops_HENRY/blob/main/ETL_MLops.ipynb)
+[ETL MLops Game Recommendation System ](https://github.com/Abyzou1995/PI1_ML_PT07/blob/main/ETL_Sentiment.ipynb)
 Dataset after ETL:
-[ETL Dataset ](https://github.com/Abyzou1995/PI01_DATA10_MLops_HENRY/tree/main/Dataset_API)
+[ETL Dataset ](https://github.com/Abyzou1995/PI1_ML_PT07/tree/main/Dataset/Function_Dataset)
 
 ## EDA
 
@@ -49,15 +49,15 @@ Exploratory Data Analysis was carried out following these steps.
 
 
 This process can be seen there:
-[EDA MLops Movie Recommendation System ](https://github.com/Abyzou1995/PI01_DATA10_MLops_HENRY/blob/main/EDA_MLops.ipynb)
+[EDA MLops Game Recommendation System ](https://github.com/Abyzou1995/PI01_DATA10_MLops_HENRY/blob/main/EDA_MLops.ipynb)
 Dataset after EDA:
-[EDA Dataset ](https://github.com/Abyzou1995/PI01_DATA10_MLops_HENRY/tree/main/Dataset_ML)
+[EDA Dataset ](https://github.com/Abyzou1995/PI1_ML_PT07/tree/main/Dataset/Function_Dataset)
 
 ## Functions for the API Development
 
 Six functions for the endpoints that will be consumed in the API.
 Dataset for functions:
-[Function Datasets](https://github.com/Abyzou1995/PI01_DATA10_MLops_HENRY/tree/main/Dataset_API)
+[Function Datasets](https://github.com/Abyzou1995/PI1_ML_PT07/tree/main/Dataset/Function_Dataset)
 
 1. def PlayTimeGenre(genre: str): Should return year with the most hours played for that genre.
 2. def UserForGenre(genre: str): Should return the user who accumulates the most hours played for the given genre and a list of the accumulation of hours played per year.
@@ -67,7 +67,7 @@ Dataset for functions:
 
 
 This process can be seen there:
-[Functions API MLops Movie Recommendation System ](https://github.com/Abyzou1995/PI01_DATA10_MLops_HENRY/blob/main/FunctionAPI_MLops.ipynb)
+[Functions API MLops Movie Recommendation System ](https://github.com/Abyzou1995/PI1_ML_PT07/blob/main/Funciones.ipynb)
 
 ## Function ML Game Recommendation System for the API Development
 
@@ -83,7 +83,7 @@ Based on research articules, features and ML text-analysis model were chosen.
 
 
 This process can be seen there:
-[Model MLops Movie Recommendation System ](https://github.com/Abyzou1995/PI01_DATA10_MLops_HENRY/blob/main/ModelML_MLops.ipynb)
+[Model MLops Movie Recommendation System ](https://github.com/Abyzou1995/PI1_ML_PT07/blob/main/ML.ipynb)
 
 ## Deployment
 
@@ -91,7 +91,7 @@ This process can be seen there:
 - Render is an unified cloud to build and run all your apps and websites.
 
 Deployed API code can be seen there:
-[Code API Movie Recommendation System ](https://github.com/Abyzou1995/PI01_DATA10_MLops_HENRY/blob/main/main.py)
+[Code API Movie Recommendation System ](https://github.com/Abyzou1995/PI1_ML_PT07/blob/main/main.py)
 
 <p align=center><img src="src/Render.png"><p>
 
