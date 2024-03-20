@@ -41,12 +41,7 @@ Exploratory Data Analysis was carried out following these steps.
 - Investigate the relationships between the variables of the datasets.
 - The EDA should include interesting graphs to extract data, such as a word cloud with the most frequent words in movie titles.
 - Check if there are outliers or anomalies.
-  Pandas Profiling reports:
-  [EDA Pandas_Prof report_1 ](https://github.com/Abyzou1995/PI01_DATA10_MLops_HENRY/blob/main/output.html)
-  :
-  [EDA Pandas_Prof report_2 ](https://github.com/Abyzou1995/PI01_DATA10_MLops_HENRY/blob/main/output_ML.html)
-
-
+ 
 
 This process can be seen there:
 [EDA MLops Game Recommendation System ](https://github.com/Abyzou1995/PI1_ML_PT07/blob/main/EDA_MLops.ipynb)
