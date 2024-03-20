@@ -49,7 +49,7 @@ Exploratory Data Analysis was carried out following these steps.
 
 
 This process can be seen there:
-[EDA MLops Game Recommendation System ](https://github.com/Abyzou1995/PI01_DATA10_MLops_HENRY/blob/main/EDA_MLops.ipynb)
+[EDA MLops Game Recommendation System ](https://github.com/Abyzou1995/PI1_ML_PT07/blob/main/EDA_MLops.ipynb)
 Dataset after EDA:
 [EDA Dataset ](https://github.com/Abyzou1995/PI1_ML_PT07/tree/main/Dataset/Function_Dataset)
 
