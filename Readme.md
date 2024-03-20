@@ -96,7 +96,7 @@ Deployed API code can be seen there:
 <p align=center><img src="src/Render.png"><p>
 
 Deployed API can be seen there:
-[Render API Movie Recommendation System ](https://mlops-data10.onrender.com/docs)
+[Render API Movie Recommendation System ](https://pi1-ml-pt07.onrender.com/docs)
 
 ## Video Tutorial
 
